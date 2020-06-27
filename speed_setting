@@ -1,0 +1,9 @@
+speed = 0.2 
+that assume the max angular speed is 4
+half angualar speed is 2
+i -- go straight turn 1
+turning-full-right（0） -0.75
+turning-half-right(1)  -1.5
+go-straightforward（2） 0
+turning-half-left(3)    0.75
+turning-full-left(4)    1.5
